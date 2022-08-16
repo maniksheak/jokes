@@ -7,8 +7,8 @@
 
 <script>
 import axios from 'axios';
-import jokeVue from '../../components/joke.vue'; 
-import SearchVue from '../../components/Search.vue';
+import jokeVue from '~/components/joke.vue'; 
+import SearchVue from '~/components/Search.vue';
 
 export default {
 components: {
